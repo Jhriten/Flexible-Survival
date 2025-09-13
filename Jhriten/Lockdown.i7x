@@ -1,4 +1,6 @@
+Version 1 of Lockdown by Jhriten begins here.
 
+"Adds a series of micro focused encounters"
 
 Section 1 - Shroom Events
 

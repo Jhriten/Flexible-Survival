@@ -329,6 +329,7 @@ Include Hyena Bikers by Stripes.
 Include Hyena Shoppers by Guest Writers.
 Include Hyena Situations by Hellerhound.
 Include Hyper Serum by Prometheus.
+Include Lockdown by Jhriten.
 [Include Important Research Quests by Kaleem Mcintyre.]
 Include Infected Pool by Hellerhound.
 Include Inner Mall Events by Wahn.
